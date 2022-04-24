@@ -1,3 +1,3 @@
-import strimlit
+import streamlit
 
-strimlit.style("My Parents New Healthy Diner.")
+streamlit.style("My Parents New Healthy Diner.")
